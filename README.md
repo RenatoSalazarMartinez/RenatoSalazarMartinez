@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Renato!
 
-![GitHub](https://img.shields.io/badge/GitHub-RenatoDev--Prog-black?style=for-the-badge&logo=github&logoColor=white&labelColor=555555) ![Java Developer](https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=555555) ![Estudiante](https://img.shields.io/badge/Estudiante-In%20Progress-2ea44f?style=for-the-badge&labelColor=555555)
+![GitHub](https://img.shields.io/badge/GitHub-Renato--Salazar--Martinez-black?style=for-the-badge&logo=github&logoColor=white&labelColor=555555) ![Java Developer](https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=555555) ![Estudiante](https://img.shields.io/badge/Estudiante-In%20Progress-2ea44f?style=for-the-badge&labelColor=555555)
 
 <hr style="height: 1px; border: none; background-color: rgba(255,255,255,0.1); margin-top: 15px;" />
 
