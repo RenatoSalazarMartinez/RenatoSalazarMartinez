@@ -15,7 +15,7 @@
 ### 🚀 Proyectos Destacados
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
-| 🎧 Sistema de Recomendación Musical | Sistema inteligente en **Java** que genera recomendaciones personalizadas basadas en patrones de escucha. | [Ver repo](#) |
+| 🎧 Sistema de Recomendación Musical | Sistema inteligente en **Java** que genera recomendaciones personalizadas basadas en patrones de escucha. | [Ver repo](https://github.com/RenatoSalazarMartinez/sistema-recomendacion-musical.git) |
 | 🛎️ Sistema de Hospedaje | Gestión integral de reservas desarrollada bajo arquitectura **MVC**, con persistencia de datos en **MySQL** e interfaz gráfica. | [Ver repo](#) |
 
 ---
