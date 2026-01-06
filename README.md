@@ -41,3 +41,9 @@
 ¿Te interesa colaborar, tienes una idea o quieres preguntar algo? mandame un email a este correo, te responderé pronto: 📧
 renatosalazarmartinez@gmail.com
 
+---
+
+### 🌐 Redes Sociales
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_DE_INSTAGRAM_AQUI)
