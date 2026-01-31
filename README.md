@@ -37,7 +37,7 @@
 
 ---
 
-### 📬 Contact me
+### 📬 Contact
 ¿Te interesa colaborar, tienes una idea o quieres preguntar algo? mandame un email a este correo, te responderé pronto: 📧
 nato.dlcourse.prog@gmail.com
 
